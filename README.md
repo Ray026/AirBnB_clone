@@ -2,4 +2,4 @@
 
 <b>AUTHORS</b>
 <i>Simiyu Raymond</i> <rsimiyu259@gmail.com><br>
-<i>David Surumen<@Davidsurumen>
+
